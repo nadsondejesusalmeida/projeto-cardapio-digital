@@ -13,7 +13,7 @@ function App() {
 				<div className="banner">
 					<img src={restaurantImage} alt="Imagem do Restaurante" />
 				</div>
-				
+
 				<Navigation
 					selectedCategory={selectedCategory}
 					setSelectedCategory={setSelectedCategory}
