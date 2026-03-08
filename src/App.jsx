@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import restaurantImage from './assets/restaurante.webp';
-import Navigation from './components/navigation.jsx';
+import Navigation from './components/Navigation.jsx';
 import Cards from './components/Cards.jsx';
 
 function App() {
